@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[!![SIGGRAPH_Image_GabrielGuerra](https://github.com/GabrielGuerra06/GabrielGuerra06/assets/97709500/9e6c5e6b-0032-4395-b815-e99c6224f320)
 [Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/gab_guerrar?utm_source=qr&igshid=OGU0MmVlOWVjOQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-guerra-rosales-bb99a1271) 
 
 # 💻 Tech Stack:
@@ -13,8 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuerra06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Greatest achievement
-<img align="center" src="">
-
 ![SIGGRAPH_Image_GabrielGuerra](https://github.com/GabrielGuerra06/GabrielGuerra06/assets/97709500/7227e886-529b-4918-be00-588320749c3a)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
