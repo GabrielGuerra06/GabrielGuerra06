@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech Knowledge...<br>• C++<br>• Java<br>• JavaScript<br>• Python<br>• Node Js<br>• React Js<br>🌱 I’m currently learning<br>• Image processing in C++<br>• Development of Numeric Methods in  Python<br>• Intern as a front end Developper<br>• Data base management in mySql<br>
+🔭 Tech Knowledge...<br>• C++<br>• Java<br>• JavaScript<br>• Python<br>• Node Js<br>• React Js<br>🌱 I’m currently learning<br>• Image processing in C++<br>• Development of Numeric Methods in  Python<br>• Intern as a back end Developper<br>• Data base management in mySql<br>
 
 
 ## 🌐 Socials:
